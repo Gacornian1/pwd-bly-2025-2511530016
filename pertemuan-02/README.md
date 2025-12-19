@@ -7,5 +7,6 @@ belajar:
 <ol>
 <li>emmet untuk struktur untuk html</li>
 <li>emmet untuk header+footer</li>
-</li>emmet untuk header yaitu h1+nav>ul>li*3>a</li>
-</lo>
+<li>emmet untuk header yaitu h1+nav>ul>li*3>a</li>
+<li><li>
+</ol>
